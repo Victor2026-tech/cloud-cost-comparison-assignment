@@ -1,7 +1,7 @@
 A cost comparison was conducted between AWS and Azure for a small web application requiring a virtual server with 2 vCPUs, 4 GB RAM, 100 GB object storage, and 500 GB monthly outbound data transfer. AWS utilized a Linux EC2 instance and Amazon S3 storage, while Azure utilized Azure Virtual Machines and Azure Blob Storage. The AWS solution was estimated at approximately $22.92 per month, whereas the Azure Linux deployment was estimated at approximately $49.46 per month. A Windows deployment on Azure using Azure Hybrid Benefit was estimated at approximately $201.95 per month.
-
 The analysis showed that AWS offers a slight pricing advantage for Linux-based workloads due to competitive compute pricing and lower networking costs. AWS also provides flexible discount programs through Savings Plans, Reserved Instances, and Spot Instances. Azure remains highly competitive, especially for organizations already invested in Microsoft technologies. Azure Hybrid Benefit enables enterprises with existing Windows Server licenses to reduce licensing expenses significantly.
-
 For startup companies operating Linux workloads, AWS is generally the more cost-effective option due to its lower operational cost and extensive open-source ecosystem support. However, for enterprises already using Microsoft 365, Active Directory, and Windows Server infrastructure, Azure may provide better overall value despite a slightly higher monthly cost because of licensing efficiencies and seamless integration with existing systems.
-
 Both platforms offer strong cost optimization opportunities through commitment-based discounts and proper resource sizing. Organizations should continuously monitor resource utilization and select the most appropriate pricing plans to minimize cloud expenditure while maintaining performance and availability requirements.
+
+
+
