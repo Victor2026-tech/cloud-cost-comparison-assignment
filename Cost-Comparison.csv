@@ -1,0 +1,6 @@
+Service,AWS Cost,Azure Cost,Cheaper Provider,Percentage Difference
+Compute,30,32,AWS,6.25%
+Storage,2.30,2.00,Azure,15%
+Database,18,20,AWS,10%
+Network,36,42,AWS,14.29%
+Total,86.30,96.00,AWS,~10.1%
